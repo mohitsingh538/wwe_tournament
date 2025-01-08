@@ -38,12 +38,7 @@ The tournament begins with multiple 1v1 matches, followed by a series of triple-
    cd wwe-tournament-simulator
    ```
 
-2. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the simulation:
+2. Run the simulation:
    ```bash
    python main.py
    ```
